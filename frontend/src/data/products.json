@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "ZINCOVIT TABLET COVID_essentials",
+        "price": "105.00"
+    },
+    {
+        "id": "2",
+        "name": "NANO LEO CAPSULES 15`S",
+        "price": "824.22"
+    },
+    {
+        "id": "3",
+        "name": "MOOV SPRAY PAIN_CARE 80GM",
+        "price": "232.22"
+    },
+    {
+        "id": "4",
+        "name": "VOLINI SPRAY 60ML",
+        "price": "123.00"
+    },
+    {
+        "id": "5",
+        "name": "BECOSULES CAPSULE    20`S",
+        "price": "100.00"
+    },
+    {
+        "id": "6",
+        "name": "NEUROBION FORTE TABLET  30`S",
+        "price": "65"
+    },
+    {
+        "id": "7",
+        "name": "SHELCAL 500MG TABLET    15`S",
+        "price": "500.00"
+    },
+    {
+        "id": "8",
+        "name": "SUPRADYN DAILY TABLET  15`S",
+        "price": "300.00"
+    }
+]
